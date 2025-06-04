@@ -11,6 +11,10 @@
   <a href="https://github.com/willisilva99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willisilva99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=📊%20Relatório%20de%20Sobrevivência&rank_icon=github&border_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willisilva99&layout=compact&langs_count=7&theme=tokyonight&border_color=0d1117&custom_title=🗣️%20Dialetos%20do%20Apocalipse"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=willisilva99" alt="Snake animation eating my contributions" style="background-color:#0d1117;"/>
   </div>
 
 ---
@@ -40,7 +44,7 @@ Para enfrentar as hordas de bugs e os desafios deste novo éon digital, meu arse
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/XML-gray?style=for-the-badge&logo=xml&logoColor=orange" alt="XML" title="XML"/>
-    </a>
+  </a>
 </p>
 
 * 🐍 **Python:** Meu canivete suíço para scripts rápidos, automação de tarefas e a espinha dorsal de muitos dos meus bots e mods de sobrevivência.
