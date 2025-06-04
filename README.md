@@ -9,7 +9,7 @@
 <p>📡 <em>Escavando os escombros da velha web em busca de código, suprimentos<br>
 e caos organizado. Cada <code>commit</code> é uma barricada contra a horda.</em> 📡</p>
 
-<!-- ─────── BADGES / SKILLS / CONTATO RÁPIDO ─────── -->
+<!-- ─────── BADGES PRINCIPAIS ─────── -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=willisilva99&label=VISITAS&style=for-the-badge&color=ff4500" alt="Visitas">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  alt="Python">
@@ -21,10 +21,9 @@ e caos organizado. Cada <code>commit</code> é uma barricada contra a horda.</em
 </p>
 </div>
 
-<!-- DIVISOR SIMPLES (sem risco de 404) -->
 <hr style="height:2px;border:none;background:#B41010;margin:20px 0;">
 
-<!-- =============== MÉTRICAS DO GITHUB =============== -->
+<!-- ========== MÉTRICAS ========== -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=willisilva99&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4500&icon_color=ff4500&custom_title=RELATÓRIO%20DE%20SOBREVIVÊNCIA" height="170">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willisilva99&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=b41010&custom_title=DIALETOS%20DO%20APOCALIPSE" height="170">
@@ -34,19 +33,19 @@ e caos organizado. Cada <code>commit</code> é uma barricada contra a horda.</em
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willisilva99&theme=tokyonight-duo&hide_border=true&ring=9146ff&currStreakLabel=ff4500">
 </p>
 
-<!-- TROFÉUS EM TOKYONIGHT -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willisilva99&theme=tokyonight&no-frame=true&column=5&margin-w=8&margin-h=8&title=Followers,Commits,Repositories,Stars" alt="Troféus">
-</p>
+<!-- ========== TROFÉUS (tema radical) ========== -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=willisilva99&theme=radical&no-frame=true&column=5&margin-w=8&margin-h=8&title=Followers,Commits,Repositories,Stars" alt="Troféus">
+</div>
+<!-- fonte dos temas disponíveis: issue doc oficial :contentReference[oaicite:0]{index=0} -->
 
-<!-- SERPENTE COM CORES PERSONALIZADAS -->
+<!-- ========== COBRA CUSTOMIZADA ========== -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color_snake=FF4500&color_dots=262626,B41010,9146FF,3CB043" alt="snake">
 </p>
 
 <hr style="height:2px;border:none;background:#008000;margin:20px 0;">
 
-<!-- =============== SOBRE O SOBREVIVENTE =============== -->
 ### 🧟‍♂️ REGISTRO DO SOBREVIVENTE
 > Sou **willisilva99**. Entre uma Lua de Sangue e outra, transformo bugs em features, scripts em barricadas e mods em pura anarquia.  
 > **Lema:** *“Se não existem regras, crie as suas. Depois, compile-as.”*
@@ -76,7 +75,6 @@ e caos organizado. Cada <code>commit</code> é uma barricada contra a horda.</em
 **Status:** Protegendo a base 24/7 🔒  
 <em>Gerencia squads, recursos e alerta sobre hordas. Cada ping salva vidas.</em>  
 <a href="https://github.com/willisilva99/bot-nova-era"><img src="https://img.shields.io/github/last-commit/willisilva99/bot-nova-era?style=flat-square"></a>
-
 </details>
 
 <details>
@@ -84,7 +82,6 @@ e caos organizado. Cada <code>commit</code> é uma barricada contra a horda.</em
 
 **Stack:** Python  
 Administra créditos, pune inflacionadores e mantém a economia girando.
-
 </details>
 
 <hr>
@@ -103,10 +100,8 @@ Administra créditos, pune inflacionadores e mantém a economia girando.
 | 🎙️ **Discord** | `@willi_tecnico` • Servidor **anarquiaz** |
 
 <div align="center" style="margin-top:30px">
-
 <em>“No apocalipse do código, a única constante é a mudança.<br>
 Adapte-se, improvise, supere… e faça backup.”</em>
-
 </div>
 
 <!-- BANNER FINAL -->
