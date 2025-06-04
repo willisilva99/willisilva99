@@ -13,8 +13,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willisilva99&layout=compact&langs_count=7&theme=tokyonight&border_color=0d1117&custom_title=🗣️%20Dialetos%20do%20Apocalipse"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=willisilva99" alt="Snake animation eating my contributions" style="background-color:#0d1117;"/>
+<div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 20px; margin-bottom: 20px;">
+  <span style="font-size: 70px; margin-right: 10px;">🧟</span> 
+  
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake-dark.svg?user=willisilva99" alt="Snake animation eating my contributions" style="background-color:#0d1117; max-width: 60%;"/>
   </div>
 
 ---
