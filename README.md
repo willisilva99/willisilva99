@@ -34,14 +34,14 @@ e caos organizado. Cada <code>commit</code> é uma barricada contra a horda.</em
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=willisilva99&theme=tokyonight-duo&hide_border=true&ring=9146ff&currStreakLabel=ff4500">
 </p>
 
-<!-- TROFÉUS COMPACTOS (4 colunas) -->
+<!-- TROFÉUS EM TOKYONIGHT -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willisilva99&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=10&title=Followers,Commits,Repositories,Stars">
+  <img src="https://github-profile-trophy.vercel.app/?username=willisilva99&theme=tokyonight&no-frame=true&column=5&margin-w=8&margin-h=8&title=Followers,Commits,Repositories,Stars" alt="Troféus">
 </p>
 
-<!-- SERPENTE -->
+<!-- SERPENTE COM CORES PERSONALIZADAS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?color_snake=FF4500&color_dots=262626,B41010,9146FF,3CB043" alt="snake">
 </p>
 
 <hr style="height:2px;border:none;background:#008000;margin:20px 0;">
