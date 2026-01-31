@@ -17,10 +17,10 @@
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- SOBRE MIM -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Sobre Mim
+## 🧟 Sobre Mim
 
 ```js
 const willi = {
@@ -38,7 +38,7 @@ const willi = {
 };
 ```
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVmMm5pNWl4Y3Z3MzVwOWJ4d3F6OGx2YWpqcm9mMGsyYjUyaGw0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280">
+<img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="280">
 
 Sou desenvolvedor focado em **modding de jogos de sobrevivência** e **administração de servidores**. 
 
@@ -52,40 +52,27 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 <br clear="right">
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- TECH STACK -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3t0p11sj9y9&rid=giphy.gif" width="28"> Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
 | Linguagens | Ferramentas | Jogos & Plataformas |
 |:----------:|:-----------:|:-------------------:|
 | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white) | ![7DTD](https://img.shields.io/badge/7_Days_to_Die-B41010?style=for-the-badge&logo=steam&logoColor=white) |
-| ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![HumanitZ](https://img.shields.io/badge/HumanitZ-2D2D2D?style=for-the-badge&logo=steam&logoColor=white) |
+| ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![HumanitZ](https://img.shields.io/badge/HumanitZ-2D2D2D?style=for-the-badge&logo=steam&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Hytale](https://img.shields.io/badge/Hytale-00C8FF?style=for-the-badge&logoColor=white) |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Nexus](https://img.shields.io/badge/Nexus_Mods-DA8E35?style=for-the-badge&logo=nexusmods&logoColor=white) |
 
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- PROJETOS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/willisilva99/bot-nova-era">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=willisilva99&repo=bot-nova-era&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500" />
-</a>
-<a href="https://github.com/willisilva99/economia-nova-era">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=willisilva99&repo=economia-nova-era&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500" />
-</a>
-
-</div>
-
-<br>
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -100,16 +87,14 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- MODS NO NEXUS -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> Mods no Nexus
+## 🔥 Mods no Nexus
 
 <div align="center">
 
 [![Nexus Mods](https://img.shields.io/badge/🔥_VER_TODOS_OS_MODS-FF4500?style=for-the-badge)](https://next.nexusmods.com/profile/AnarquiaZ/mods)
-
-<br>
 
 ```
 ⚔️ Armadilhas Inéditas  •  👹 Facções Hostis  •  🦠 Doenças Realistas  •  🌩️ Eventos Dinâmicos
@@ -118,15 +103,15 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="28"> GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=willisilva99&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500&text_color=FFFFFF&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=willisilva99&theme=radical&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" />
+<img width="49%" src="https://streak-stats.demolab.com?user=willisilva99&theme=radical&hide_border=true&background=0D1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500" />
 
 </div>
 
@@ -134,7 +119,7 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willisilva99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willisilva99&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF4500&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -143,15 +128,15 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=willisilva99&custom_title=📈%20Gráfico%20de%20Contribuições&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF&area_color=FF4500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=willisilva99&custom_title=Gráfico%20de%20Contribuições&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF&area_color=FF4500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- SNAKE ANIMATION -->
-## <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="28"> Contribuições
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -168,19 +153,19 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 
 <div align="center">
   
-[![Trophies](https://github-profile-trophy.vercel.app/?username=willisilva99&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=willisilva99&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
 
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
 
 <!-- QUOTE -->
 <div align="center">
 
 ### 💀 Registro Final do Sobrevivente
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 <br>
 
