@@ -16,11 +16,13 @@
 
 </div>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<!-- DIVIDER ANIMADO -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-<!-- SOBRE MIM -->
-## 🧟 Sobre Mim
+<!-- SOBRE MIM COM GIF -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/Assets/Hand%20Wave.gif" width="40"> Sobre Mim
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 ```js
 const willi = {
@@ -38,29 +40,27 @@ const willi = {
 };
 ```
 
-<img align="right" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="280">
-
-Sou desenvolvedor focado em **modding de jogos de sobrevivência** e **administração de servidores**. 
-
-Meu trabalho é transformar a experiência de jogo em algo único — seja criando mods que dão pesadelos, desenvolvendo bots para Discord ou configurando sistemas de economia e ranking.
+<br>
 
 - 🔭 Trabalhando no **AnarquiaMod** para Hytale
 - 🤖 Mantendo o **Bot Nova Era** com estatísticas e rankings
 - 🎮 Administrando servidores de **7DTD** e **HumanitZ**
 - 🧟 Criando mods com armadilhas, doenças e eventos dinâmicos
 
-<br clear="right">
+<br clear="both">
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 <!-- TECH STACK -->
-## ⚙️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2gy3t0p11sj9y9&rid=giphy.gif" width="32"> Tech Stack
 
 <div align="center">
 
-| Linguagens | Ferramentas | Jogos & Plataformas |
-|:----------:|:-----------:|:-------------------:|
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="200" align="right">
+
+| Linguagens | Ferramentas | Jogos |
+|:----------:|:-----------:|:-----:|
 | ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![Discord.py](https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white) | ![7DTD](https://img.shields.io/badge/7_Days_to_Die-B41010?style=for-the-badge&logo=steam&logoColor=white) |
 | ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![HumanitZ](https://img.shields.io/badge/HumanitZ-2D2D2D?style=for-the-badge&logo=steam&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Hytale](https://img.shields.io/badge/Hytale-00C8FF?style=for-the-badge&logoColor=white) |
@@ -68,33 +68,49 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 
 </div>
 
+<br clear="both">
+
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 <!-- PROJETOS -->
-## 🚀 Projetos em Destaque
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> Projetos em Destaque
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="24"> **Meus projetos mais importantes**
+
+</div>
+
+<br>
 
 <div align="center">
 
 | 🎯 Projeto | 📝 Descrição | 🚀 Status |
 |:-----------|:-------------|:---------:|
-| **🤖 Bot Nova Era** | Bot Discord para rankings, estatísticas de players e notificações de morte | ![Status](https://img.shields.io/badge/Ativo-00FF00?style=flat-square) |
-| **💰 Economia Nova Era** | Sistema de economia e escambo para servidores de jogos | ![Status](https://img.shields.io/badge/Ativo-00FF00?style=flat-square) |
-| **🎒 NoBackpackSpawn** | Mod 7DTD que previne exploits de respawn em PVP | ![Status](https://img.shields.io/badge/Publicado-00FF00?style=flat-square) |
-| **🏴 AnarquiaMod** | Sistema de claims territoriais para Hytale (`/claim`, `/claim info`) | ![Status](https://img.shields.io/badge/Em_Dev-FFA500?style=flat-square) |
-| **🔫 M4A1 Mod** | Arma customizada para 7 Days to Die em XML | ![Status](https://img.shields.io/badge/Pausado-808080?style=flat-square) |
+| **🤖 Bot Nova Era** | Bot Discord para rankings, estatísticas de players e notificações de morte | ![Status](https://img.shields.io/badge/✅_Ativo-00FF00?style=flat-square) |
+| **💰 Economia Nova Era** | Sistema de economia e escambo para servidores de jogos | ![Status](https://img.shields.io/badge/✅_Ativo-00FF00?style=flat-square) |
+| **🎒 NoBackpackSpawn** | Mod 7DTD que previne exploits de respawn em PVP | ![Status](https://img.shields.io/badge/✅_Publicado-00FF00?style=flat-square) |
+| **🏴 AnarquiaMod** | Sistema de claims territoriais para Hytale (`/claim`, `/claim info`) | ![Status](https://img.shields.io/badge/🔧_Em_Dev-FFA500?style=flat-square) |
+| **🔫 M4A1 Mod** | Arma customizada para 7 Days to Die em XML | ![Status](https://img.shields.io/badge/⏸_Pausado-808080?style=flat-square) |
 
 </div>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 <!-- MODS NO NEXUS -->
-## 🔥 Mods no Nexus
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="32"> Mods no Nexus
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Misc/Fire.gif" width="60">
+
 [![Nexus Mods](https://img.shields.io/badge/🔥_VER_TODOS_OS_MODS-FF4500?style=for-the-badge)](https://next.nexusmods.com/profile/AnarquiaZ/mods)
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Misc/Fire.gif" width="60">
+
+<br>
 
 ```
 ⚔️ Armadilhas Inéditas  •  👹 Facções Hostis  •  🦠 Doenças Realistas  •  🌩️ Eventos Dinâmicos
@@ -103,10 +119,10 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 </div>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ber/giphy.gif" width="32"> GitHub Stats
 
 <div align="center">
   
@@ -133,7 +149,7 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 </div>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
 <!-- SNAKE ANIMATION -->
 ## 🐍 Contribuições
@@ -158,9 +174,9 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 </div>
 
 <!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
 
-<!-- QUOTE -->
+<!-- QUOTE E FINAL -->
 <div align="center">
 
 ### 💀 Registro Final do Sobrevivente
@@ -169,11 +185,15 @@ Meu trabalho é transformar a experiência de jogo em algo único — seja crian
 
 <br>
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Misc/Skull.gif" width="80">
+
 ```
 "No apocalipse do código, a única constante é a mudança.
  Adapte-se, improvise, supere… e faça backup."
                                         — willisilva99
 ```
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Misc/Skull.gif" width="80">
 
 </div>
 
