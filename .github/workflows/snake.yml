@@ -1,17 +1,9 @@
-# GitHub Action para gerar a cobra comendo as contribuições
-# Coloque este arquivo em: .github/workflows/snake.yml
-
 name: Generate Snake 🐍
 
 on:
-  # Executa a cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Permite executar manualmente
   workflow_dispatch:
-  
-  # Executa quando há push na main
   push:
     branches:
       - main
@@ -19,30 +11,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     
     steps:
-      # Gera os arquivos SVG da snake
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: willisilva99
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=#FF4500&color_dots=#0D1117,#161B22,#21262D,#FF4500,#FF6B35
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Mostra o status do build (para debug)
-      - name: Show build status
-        run: git status
-      
-      # Faz push dos arquivos para a branch output
+          
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🐍 Atualizar snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
